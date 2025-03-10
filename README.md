@@ -1,4 +1,4 @@
-# Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Vedantxd here!
+# Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Vedant here!
 
 ## 🚀 About Me  
 - 🎓 I'm a final-year **B.Tech (IT) student** at UIT - RGPV.  
